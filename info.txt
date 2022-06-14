@@ -1,0 +1,6 @@
+Ważne!
+
+*Odpalać skrypt przez admina.
+*Rozdziałka 1366x768, w oknie.
+*Pierwszy raz kliknąć "Z", później sam będzie łapał.
+Powinno działać, a jak nie to nowe screeny porobić dla ilości kliknięć spacji.
